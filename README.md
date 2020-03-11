@@ -19,8 +19,8 @@ This code allows you to send messages to an LED display and have them scroll acr
 Once you've attached all your electronic components, plug your android phone directly into your PC and install the app. From the app you'll be able to send messages with the click of a button and you can watch it scroll across the screen.
 
 ## Notes
-1. If the colour of your text is dimmer or more yellow than you expect, it's because you arent suppying enough power to show the colours you want
+1. If the colour of your text is dimmer or more yellow than you expect, it's because you arent supplying enough power to show the colours you want
 2. Make sure you're connected to the module when attempting to send messages
-3. Sweat words are permitted so go crazy
+3. Swear words are permitted so go crazy
 
 More app functionallity coming soon

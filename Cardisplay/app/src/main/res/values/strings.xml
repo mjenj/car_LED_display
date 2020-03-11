@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Car-display</string>
+    <string name="send">Send</string>
+    <string name="setup">Set up</string>
+    <string name="custom_message">Custom\nmessage</string>
+    <string name="standard_message">Standard\nmessage</string>
+    <string name="color_picker">Color\npicker</string>
+    <string name="menu">MENU</string>
+    <string name="ok">Ok</string>
+</resources>
